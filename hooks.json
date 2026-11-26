@@ -1,0 +1,18 @@
+{
+  "zh-title-auto-translate": {
+    "SessionStart": [
+      {
+        "type": "command",
+        "command": "python3 ./scripts/translate_title.py --hook",
+        "timeout": 10
+      }
+    ],
+    "Stop": [
+      {
+        "type": "command",
+        "command": "python3 ./scripts/translate_title.py --hook",
+        "timeout": 10
+      }
+    ]
+  }
+}

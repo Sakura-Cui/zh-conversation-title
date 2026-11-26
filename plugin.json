@@ -1,0 +1,12 @@
+{
+  "name": "zh-conversation-title",
+  "displayName": "对话标题自动汉化",
+  "version": "1.0.0",
+  "description": "自动将 Antigravity 左侧对话列表中生成的英文会话标题静默翻译为中文，并支持一键批量汉化历史英文对话标题。",
+  "logo": "assets/logo.svg",
+  "suggestedPrompts": [
+    "把所有历史英文对话标题批量翻译成中文",
+    "先预览哪些历史对话标题还是英文，暂不修改",
+    "检查对话标题自动汉化插件的运行日志和状态"
+  ]
+}
