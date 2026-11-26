@@ -40,3 +40,13 @@ zh-conversation-title/
     └── translate-titles/
         └── SKILL.md
 ```
+
+---
+
+## 作者
+
+**Sakura-Cui** · [740514683@qq.com](mailto:740514683@qq.com)
+
+## 许可证
+
+[MIT](LICENSE) © 2026 Sakura-Cui
